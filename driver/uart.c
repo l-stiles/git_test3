@@ -74,3 +74,20 @@ void Send_Str(unsigned char *dat)
     }
 }
 /******************* (C) COPYRIGHT 2014 LENCHIMCU.TAOBAO.COM ******************/
+
+void for_git_test()
+{
+	
+	do
+	{
+		
+		//i dont do nothing
+		//i just fot test
+		//it looks fun
+		
+	}while(1);
+	
+	
+	
+	
+}
